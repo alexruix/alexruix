@@ -19,7 +19,7 @@ I bridge the gap between user experience (UX/UI), business strategy, and modern 
 
 #### 🚀 Featured Projects & Impact
 
-- 🏋️‍♂️ **[ControlFit (controlfit.ar)](https://www.controlfit.ar):** Co-Founder & Product Designer. Designed and built the UX/UI, PWA and SaaS platform managing **+8,000 monthly bookings**.
+- 🏋️‍♂️ **[ControlFit (controlfit.ar)](https://www.controlfit.ar):** Co-Founder & Product Designer. Designed and built the UX/UI, PWA and SaaS platform.
 - 🎨 **[Figma Community Resources](https://www.figma.com/@alexruix):** UX templates (*User Persona & Journey Map*) saved and used by **+30,000 designers**.
 - 🧩 **[Uiverse.io Components](https://uiverse.io/profile/alexruix):** Open-source UI cards, buttons, and animations for developers.
 - 💼 **[Alex Ruiz Studio (alexruiz.ar)](https://alexruiz.ar):** Digital products, custom web apps, and e-commerce for PyMEs and startups.
